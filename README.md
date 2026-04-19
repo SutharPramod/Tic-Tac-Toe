@@ -55,4 +55,4 @@ MIT License – use freely.
 
 ---
 
-Built with ❤️ for fun. Play now: [Live Demo](https://your-username.github.io/tic-tac-toe) *(host on GitHub Pages)*
+Built with ❤️ for fun. Play now: [Live Demo](https://sutharpramod.github.io/Tic-Tac-Toe/) *(host on GitHub Pages)*
